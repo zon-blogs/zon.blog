@@ -1,5 +1,6 @@
 ---
 sticky: 1
+hidden: true
 ---
 
 <script setup>
