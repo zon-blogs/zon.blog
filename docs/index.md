@@ -13,8 +13,13 @@ blog:
  # 设置 inspiringTimeout 可以实现自动切换
  inspiringTimeout: 3000
  pageSize: 6
+  # 设置头像分离展示模式
+#  avatarMode: split
+
+ # 移动端隐藏头部头像展示
  minScreenAvatar: true
-#  analysis: 
-#   articles: 
-#     title: ['博客文章', '月更新', '周更新']
+ # 文章数据分析卡片标题定义
+ analysis: 
+  articles: 
+    title: ['博客文章', '月更新', '周更新']
 ---

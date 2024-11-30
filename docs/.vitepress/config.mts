@@ -52,7 +52,6 @@ export default defineConfig({
         items: [
           { text: "技术随记", link: "/record/index" },
           { text: "Nest", link: "/nest/index" },
-          { text: "主题使用", link: "/sop/quickStart" },
         ],
       },
       // {
@@ -63,7 +62,7 @@ export default defineConfig({
       //     { text: "Item C", link: "/item-3" },
       //   ],
       // },
-      { text: '关于作者', link: '/about' }
+      { text: '关于', link: '/about' }
     ],
     socialLinks: [
       {
